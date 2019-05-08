@@ -1,0 +1,10 @@
+C:\Users\smert\source\repos\CarTrafficSimulator\CarTrafficSimulator\bin\Debug\CarTrafficSimulator.exe.config
+C:\Users\smert\source\repos\CarTrafficSimulator\CarTrafficSimulator\bin\Debug\CarTrafficSimulator.exe
+C:\Users\smert\source\repos\CarTrafficSimulator\CarTrafficSimulator\bin\Debug\CarTrafficSimulator.pdb
+C:\Users\smert\source\repos\CarTrafficSimulator\CarTrafficSimulator\obj\Debug\CarTrafficSimulator.csprojAssemblyReference.cache
+C:\Users\smert\source\repos\CarTrafficSimulator\CarTrafficSimulator\obj\Debug\CarTrafficSimulator.Form1.resources
+C:\Users\smert\source\repos\CarTrafficSimulator\CarTrafficSimulator\obj\Debug\CarTrafficSimulator.Properties.Resources.resources
+C:\Users\smert\source\repos\CarTrafficSimulator\CarTrafficSimulator\obj\Debug\CarTrafficSimulator.csproj.GenerateResource.cache
+C:\Users\smert\source\repos\CarTrafficSimulator\CarTrafficSimulator\obj\Debug\CarTrafficSimulator.csproj.CoreCompileInputs.cache
+C:\Users\smert\source\repos\CarTrafficSimulator\CarTrafficSimulator\obj\Debug\CarTrafficSimulator.exe
+C:\Users\smert\source\repos\CarTrafficSimulator\CarTrafficSimulator\obj\Debug\CarTrafficSimulator.pdb
